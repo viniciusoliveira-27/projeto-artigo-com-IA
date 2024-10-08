@@ -2,7 +2,7 @@
 
 Este projeto consiste na criação de um artigo técnico sobre como o **Spring Framework** e o **Spring Boot** revolucionaram o desenvolvimento em **Java**, tornando-o mais rápido, eficiente e fácil de usar, especialmente para desenvolvedores iniciantes e intermediários.
 
-[Leia o artigo completo](#)  _(Link para o artigo completo no seu repositório ou site)_
+[Leia o artigo completo](https://github.com/viniciusoliveira-27/projeto-artigo-com-IA/blob/86cc03f0f3e2c1ffee6f30c7b343ee6fb79b92f1/artigo%20java%20.pdf)  _(Link para o artigo completo no seu repositório ou site)_
 
 ## 🚀 **Tecnologias Utilizadas**
 
